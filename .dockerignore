@@ -1,0 +1,14 @@
+# Git history — not needed in the image
+.git
+.gitignore
+
+# Kubernetes manifests — not part of the app
+k8s/
+
+# Docs
+*.md
+
+# OS/editor artifacts
+.DS_Store
+Thumbs.db
+*.swp
