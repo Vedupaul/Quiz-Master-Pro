@@ -200,4 +200,4 @@ Managing scalable production systems
 
 🏆 Resume Highlight
 
-Deployed a production-ready Quiz Application using Docker, GitHub Actions CI/CD, and Kubernetes with load balancing and scalable replicas.
+Deployed a production-ready Quiz Application using Docker, GitHub Actions CI/CD, and Kubernetes with load balancing and scalable replicas
