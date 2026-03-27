@@ -1,5 +1,7 @@
 🚀 Quiz Application – Dockerized with CI/CD & Kubernetes
 
+![Quiz Application Screenshot](./screenshot.png)
+
 A modern, responsive Quiz Web Application built using HTML, CSS, and JavaScript, containerized with Docker, automated using GitHub Actions (CI/CD), and deployed on Kubernetes for scalability and high availability.
 
 📌 Project Overview
